@@ -1,6 +1,6 @@
 # WinPE 定义
 
-Windows Preinstallation Environment（WinPE）是微软官方提供的轻量化临时操作系统环境，原生的 WinPE 具有以下核心特性：
+Windows PE (WinPE) 是一个小型操作系统，用于安装、部署和修复 Windows 桌面版、Windows Server 和其他 Windows 操作系统。 原生的 WinPE 具有以下核心特性：
 
 - **极简内核**：剥离 GUI 组件，体积通常小于 500MB，内存占用仅 1-2GB
 - **硬件抽象化**：原生支持 UEFI/Secure Boot，集成通用存储/USB/网络驱动
@@ -35,3 +35,4 @@ Windows Preinstallation Environment（WinPE）是微软官方提供的轻量化�
   支持 [Edgeless 插件](https://home.edgeless.top) 和 [HotPE 模块](https://www.hotpe.top)，可加载 Python/VSCode/微信等 200+ 工具
 - **企业级功能**  
   生命周期钩子脚本、SMB 网络共享、静默装机等自动化运维方案
+
