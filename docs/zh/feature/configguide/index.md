@@ -67,6 +67,7 @@ FirPE 支持通过放置自定义目录中的资源与编辑 `config.ini` 实现
 |      分辨率      | 宽 高（如 1024 768） |
 |   桌面图标大小   |     小 / 中 / 大     |
 |    任务栏大小    |     小 / 中 / 大     |
+| 任务栏图标居左   |        0 / 1         |
 | 自动切换夜间模式 |        0 / 1         |
 | 自动切换夜间模式 |        0 / 1         |
 
@@ -154,3 +155,4 @@ DNS=114.114.114.114
 |       `\FirPE\Windows`       |     覆盖复制到 `X:\Windows`     |
 |    `\FirPE\Program Files`    |    复制到 `X:\Program Files`    |
 | `\FirPE\Program Files (x86)` | 复制到 `X:\Program Files (x86)` |
+
