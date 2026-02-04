@@ -104,7 +104,7 @@ export default {
     )
     // giscus配置
     giscusTalk({
-      repo: '834772509/FirPE-Docs', //仓库
+      repo: 'FirPE-Team/FirPE-Docs', //仓库
       repoId: 'R_kgDOOJ0pSg', //仓库ID
       category: 'General', // 讨论分类
       categoryId: 'DIC_kwDOOJ0pSs4CoKSL', //讨论分类ID
