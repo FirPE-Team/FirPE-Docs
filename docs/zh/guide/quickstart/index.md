@@ -56,7 +56,7 @@
 
 ![](./assets/1.png)
 
-## 2.2 下载 Widows
+## 2.2 下载 Windows 系统镜像
 
 1. 点击[下载链接](https://massgrave.dev/windows_11_links)：
 
