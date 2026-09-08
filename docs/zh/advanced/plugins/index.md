@@ -9,7 +9,7 @@ FirPE 的插件生态由多种格式的插件包和模块组成，通过简单�
    - 放置路径：`U盘:\FirPE\Resource\`
 2. **HPM 模块（.hpm）**
    - 功能：HotPEModule 格式的二进制模块，可加载软件、驱动、脚本或自定义功能。
-   - 放置路径：`U盘:\FirPE\HPM\`
+   - 放置路径：`U盘:\FirPE\HotPEModule\`
 
 ## 安装与自动加载机制
 
